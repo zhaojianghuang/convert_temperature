@@ -3,3 +3,6 @@ datafile.dat
 
 # Ignore configuration text file
 binaryfile.txt
+
+# Ignore all object files
+directory/
